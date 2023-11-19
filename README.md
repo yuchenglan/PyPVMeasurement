@@ -7,3 +7,5 @@ Python code to measure Photovoltaic Curve
 3. The final version was checked in 2023 Nov and released online.
 
 # Author
+Kit and Yucheng
+
